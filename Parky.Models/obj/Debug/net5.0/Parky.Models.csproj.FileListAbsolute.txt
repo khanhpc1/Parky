@@ -1,0 +1,12 @@
+C:\Users\KhanhPC\OneDrive\Tài liệu\01. FRESHER.NET\08. Resfull API\Parky\Parky\Parky.Models\bin\Debug\net5.0\Parky.Models.deps.json
+C:\Users\KhanhPC\OneDrive\Tài liệu\01. FRESHER.NET\08. Resfull API\Parky\Parky\Parky.Models\bin\Debug\net5.0\Parky.Models.dll
+C:\Users\KhanhPC\OneDrive\Tài liệu\01. FRESHER.NET\08. Resfull API\Parky\Parky\Parky.Models\bin\Debug\net5.0\ref\Parky.Models.dll
+C:\Users\KhanhPC\OneDrive\Tài liệu\01. FRESHER.NET\08. Resfull API\Parky\Parky\Parky.Models\bin\Debug\net5.0\Parky.Models.pdb
+C:\Users\KhanhPC\OneDrive\Tài liệu\01. FRESHER.NET\08. Resfull API\Parky\Parky\Parky.Models\obj\Debug\net5.0\Parky.Models.csproj.AssemblyReference.cache
+C:\Users\KhanhPC\OneDrive\Tài liệu\01. FRESHER.NET\08. Resfull API\Parky\Parky\Parky.Models\obj\Debug\net5.0\Parky.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KhanhPC\OneDrive\Tài liệu\01. FRESHER.NET\08. Resfull API\Parky\Parky\Parky.Models\obj\Debug\net5.0\Parky.Models.AssemblyInfoInputs.cache
+C:\Users\KhanhPC\OneDrive\Tài liệu\01. FRESHER.NET\08. Resfull API\Parky\Parky\Parky.Models\obj\Debug\net5.0\Parky.Models.AssemblyInfo.cs
+C:\Users\KhanhPC\OneDrive\Tài liệu\01. FRESHER.NET\08. Resfull API\Parky\Parky\Parky.Models\obj\Debug\net5.0\Parky.Models.csproj.CoreCompileInputs.cache
+C:\Users\KhanhPC\OneDrive\Tài liệu\01. FRESHER.NET\08. Resfull API\Parky\Parky\Parky.Models\obj\Debug\net5.0\Parky.Models.dll
+C:\Users\KhanhPC\OneDrive\Tài liệu\01. FRESHER.NET\08. Resfull API\Parky\Parky\Parky.Models\obj\Debug\net5.0\ref\Parky.Models.dll
+C:\Users\KhanhPC\OneDrive\Tài liệu\01. FRESHER.NET\08. Resfull API\Parky\Parky\Parky.Models\obj\Debug\net5.0\Parky.Models.pdb

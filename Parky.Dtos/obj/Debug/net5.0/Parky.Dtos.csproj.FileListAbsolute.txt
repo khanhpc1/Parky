@@ -1,0 +1,15 @@
+C:\Users\KhanhPC\OneDrive\Tài liệu\01. FRESHER.NET\08. Resfull API\Parky\Parky\Parky.Dtos\bin\Debug\net5.0\Parky.Dtos.deps.json
+C:\Users\KhanhPC\OneDrive\Tài liệu\01. FRESHER.NET\08. Resfull API\Parky\Parky\Parky.Dtos\bin\Debug\net5.0\Parky.Dtos.dll
+C:\Users\KhanhPC\OneDrive\Tài liệu\01. FRESHER.NET\08. Resfull API\Parky\Parky\Parky.Dtos\bin\Debug\net5.0\ref\Parky.Dtos.dll
+C:\Users\KhanhPC\OneDrive\Tài liệu\01. FRESHER.NET\08. Resfull API\Parky\Parky\Parky.Dtos\bin\Debug\net5.0\Parky.Dtos.pdb
+C:\Users\KhanhPC\OneDrive\Tài liệu\01. FRESHER.NET\08. Resfull API\Parky\Parky\Parky.Dtos\obj\Debug\net5.0\Parky.Dtos.csproj.AssemblyReference.cache
+C:\Users\KhanhPC\OneDrive\Tài liệu\01. FRESHER.NET\08. Resfull API\Parky\Parky\Parky.Dtos\obj\Debug\net5.0\Parky.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KhanhPC\OneDrive\Tài liệu\01. FRESHER.NET\08. Resfull API\Parky\Parky\Parky.Dtos\obj\Debug\net5.0\Parky.Dtos.AssemblyInfoInputs.cache
+C:\Users\KhanhPC\OneDrive\Tài liệu\01. FRESHER.NET\08. Resfull API\Parky\Parky\Parky.Dtos\obj\Debug\net5.0\Parky.Dtos.AssemblyInfo.cs
+C:\Users\KhanhPC\OneDrive\Tài liệu\01. FRESHER.NET\08. Resfull API\Parky\Parky\Parky.Dtos\obj\Debug\net5.0\Parky.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\KhanhPC\OneDrive\Tài liệu\01. FRESHER.NET\08. Resfull API\Parky\Parky\Parky.Dtos\obj\Debug\net5.0\Parky.Dtos.dll
+C:\Users\KhanhPC\OneDrive\Tài liệu\01. FRESHER.NET\08. Resfull API\Parky\Parky\Parky.Dtos\obj\Debug\net5.0\ref\Parky.Dtos.dll
+C:\Users\KhanhPC\OneDrive\Tài liệu\01. FRESHER.NET\08. Resfull API\Parky\Parky\Parky.Dtos\obj\Debug\net5.0\Parky.Dtos.pdb
+C:\Users\KhanhPC\OneDrive\Tài liệu\01. FRESHER.NET\08. Resfull API\Parky\Parky\Parky.Dtos\bin\Debug\net5.0\Parky.Models.dll
+C:\Users\KhanhPC\OneDrive\Tài liệu\01. FRESHER.NET\08. Resfull API\Parky\Parky\Parky.Dtos\bin\Debug\net5.0\Parky.Models.pdb
+C:\Users\KhanhPC\OneDrive\Tài liệu\01. FRESHER.NET\08. Resfull API\Parky\Parky\Parky.Dtos\obj\Debug\net5.0\Parky.Dtos.csproj.CopyComplete

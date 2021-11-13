@@ -15,4 +15,3 @@ C:\Users\KhanhPC\OneDrive\Tài liệu\01. FRESHER.NET\08. Resfull API\Parky\Pa
 C:\Users\KhanhPC\OneDrive\Tài liệu\01. FRESHER.NET\08. Resfull API\Parky\Parky\ParkyAPI.Core\obj\Debug\net5.0\ref\ParkyAPI.Core.dll
 C:\Users\KhanhPC\OneDrive\Tài liệu\01. FRESHER.NET\08. Resfull API\Parky\Parky\ParkyAPI.Core\obj\Debug\net5.0\ParkyAPI.Core.pdb
 C:\Users\KhanhPC\OneDrive\Tài liệu\01. FRESHER.NET\08. Resfull API\Parky\Parky\ParkyAPI.Core\obj\Debug\net5.0\ParkyAPI.Core.genruntimeconfig.cache
-C:\Users\KhanhPC\OneDrive\Tài liệu\01. FRESHER.NET\08. Resfull API\Parky\Parky\ParkyAPI.Core\obj\Debug\net5.0\ParkyAPI.Core.csproj.CopyComplete

@@ -7,7 +7,7 @@ namespace ParkyWeb
 {
     public static class SD
     {
-        public static string APIBaseUrl = "https://localhost:4435/";
+        public static string APIBaseUrl = "https://localhost:44354/";
         public static string NationalParkAPIPath = APIBaseUrl + "api/v1/nationalparks/";
         public static string TrailAPIPath = APIBaseUrl + "api/v1/trails/";
         public static string AccountAPIPath = APIBaseUrl + "api/v1/Users/";
